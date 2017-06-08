@@ -15,6 +15,14 @@
 		AEB62F6C1EE8EA4400EB84FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F6A1EE8EA4400EB84FA /* LaunchScreen.storyboard */; };
 		AEB62F771EE8EA4400EB84FA /* Sound_ShakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB62F761EE8EA4400EB84FA /* Sound_ShakerTests.swift */; };
 		AEB62F821EE8EA4400EB84FA /* Sound_ShakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB62F811EE8EA4400EB84FA /* Sound_ShakerUITests.swift */; };
+		AEB62F961EE8EAD800EB84FA /* sound1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F8F1EE8EAD800EB84FA /* sound1.mp3 */; };
+		AEB62F971EE8EAD800EB84FA /* sound2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F901EE8EAD800EB84FA /* sound2.mp3 */; };
+		AEB62F981EE8EAD800EB84FA /* sound3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F911EE8EAD800EB84FA /* sound3.mp3 */; };
+		AEB62F991EE8EAD800EB84FA /* sound4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F921EE8EAD800EB84FA /* sound4.mp3 */; };
+		AEB62F9A1EE8EAD800EB84FA /* sound5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F931EE8EAD800EB84FA /* sound5.mp3 */; };
+		AEB62F9B1EE8EAD800EB84FA /* sound6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F941EE8EAD800EB84FA /* sound6.mp3 */; };
+		AEB62F9C1EE8EAD800EB84FA /* sound7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F951EE8EAD800EB84FA /* sound7.mp3 */; };
+		AEB62F9E1EE8EC3300EB84FA /* ferdinandStohr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AEB62F9D1EE8EC3300EB84FA /* ferdinandStohr.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +57,14 @@
 		AEB62F7D1EE8EA4400EB84FA /* Sound ShakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sound ShakerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEB62F811EE8EA4400EB84FA /* Sound_ShakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sound_ShakerUITests.swift; sourceTree = "<group>"; };
 		AEB62F831EE8EA4400EB84FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEB62F8F1EE8EAD800EB84FA /* sound1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound1.mp3; sourceTree = "<group>"; };
+		AEB62F901EE8EAD800EB84FA /* sound2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound2.mp3; sourceTree = "<group>"; };
+		AEB62F911EE8EAD800EB84FA /* sound3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound3.mp3; sourceTree = "<group>"; };
+		AEB62F921EE8EAD800EB84FA /* sound4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound4.mp3; sourceTree = "<group>"; };
+		AEB62F931EE8EAD800EB84FA /* sound5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound5.mp3; sourceTree = "<group>"; };
+		AEB62F941EE8EAD800EB84FA /* sound6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound6.mp3; sourceTree = "<group>"; };
+		AEB62F951EE8EAD800EB84FA /* sound7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound7.mp3; sourceTree = "<group>"; };
+		AEB62F9D1EE8EC3300EB84FA /* ferdinandStohr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ferdinandStohr.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +118,14 @@
 				AEB62F5E1EE8EA4400EB84FA /* AppDelegate.swift */,
 				AEB62F601EE8EA4400EB84FA /* ViewController.swift */,
 				AEB62F621EE8EA4400EB84FA /* Main.storyboard */,
+				AEB62F9D1EE8EC3300EB84FA /* ferdinandStohr.jpg */,
+				AEB62F8F1EE8EAD800EB84FA /* sound1.mp3 */,
+				AEB62F901EE8EAD800EB84FA /* sound2.mp3 */,
+				AEB62F911EE8EAD800EB84FA /* sound3.mp3 */,
+				AEB62F921EE8EAD800EB84FA /* sound4.mp3 */,
+				AEB62F931EE8EAD800EB84FA /* sound5.mp3 */,
+				AEB62F941EE8EAD800EB84FA /* sound6.mp3 */,
+				AEB62F951EE8EAD800EB84FA /* sound7.mp3 */,
 				AEB62F681EE8EA4400EB84FA /* Assets.xcassets */,
 				AEB62F6A1EE8EA4400EB84FA /* LaunchScreen.storyboard */,
 				AEB62F6D1EE8EA4400EB84FA /* Info.plist */,
@@ -235,8 +259,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEB62F9C1EE8EAD800EB84FA /* sound7.mp3 in Resources */,
+				AEB62F971EE8EAD800EB84FA /* sound2.mp3 in Resources */,
 				AEB62F6C1EE8EA4400EB84FA /* LaunchScreen.storyboard in Resources */,
 				AEB62F691EE8EA4400EB84FA /* Assets.xcassets in Resources */,
+				AEB62F961EE8EAD800EB84FA /* sound1.mp3 in Resources */,
+				AEB62F991EE8EAD800EB84FA /* sound4.mp3 in Resources */,
+				AEB62F981EE8EAD800EB84FA /* sound3.mp3 in Resources */,
+				AEB62F9A1EE8EAD800EB84FA /* sound5.mp3 in Resources */,
+				AEB62F9E1EE8EC3300EB84FA /* ferdinandStohr.jpg in Resources */,
+				AEB62F9B1EE8EAD800EB84FA /* sound6.mp3 in Resources */,
 				AEB62F641EE8EA4400EB84FA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
